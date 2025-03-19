@@ -171,3 +171,5 @@ cython_debug/
 .pypirc
 
 chroma_db
+loaded_files.txt
+script.log
